@@ -193,9 +193,6 @@ a revenue-share donut chart by category; and a Region vs Product scatter/
 correlation view — plus full Customer, Product, Regional, Statistical,
 Insights, Data Story, Ask Your Data, and Reports tabs.
 
-*(Add your own dashboard screenshots here once you've run the app —
-e.g. `assets/screenshot_overview.png`, `assets/screenshot_dashboard.png`.)*
-
 ---
 
 ## 🔒 Security Notes
