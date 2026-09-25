@@ -193,6 +193,8 @@ a revenue-share donut chart by category; and a Region vs Product scatter/
 correlation view — plus full Customer, Product, Regional, Statistical,
 Insights, Data Story, Ask Your Data, and Reports tabs.
 
+![Dashboard Preview](https://github.com/vikashsharma27/ai-data-analytics-platform/blob/main/Home%20Page.png).
+
 ---
 
 ## 🔒 Security Notes
